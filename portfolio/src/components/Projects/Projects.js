@@ -8,7 +8,7 @@ const Projects = () => (
   <Section nopadding id="projects"> 
     <SectionDivider />
     <SectionTitle main>Projects</SectionTitle>
-    <GridContainer>
+    {/* <GridContainer>
       {projects.map(({ id, image, title, description, tags, source, visit }) => (
         <BlogCard key={id}>
           <Img src={image} />
@@ -31,7 +31,7 @@ const Projects = () => (
           </UtilityList>
         </BlogCard>
       ))}
-    </GridContainer>
+    </GridContainer> */}
   </Section>
 );
 
