@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Automated Reporting Tool',
-    description: "Using React, Node.js, Express & MySQL I built a Full Stack 'MERN' Application. The App is a Health Services tool that allows users to generate a compiled pdf based on health information within the database. The tool provides user authentication and easy to use interfaces to promote efficiency.",
+    description: "Using React, Node.js, Express & MySQL I built a Full Stack 'MERN' Application. The App is a Health Services tool that allows users to generate a compiled pdf based on health information within the database. The tool provides user authentication and easy to use interfaces to promote efficiency. WEBSITE UNDER CONSTRUCTION",
       image: '/images/1.png',
       tags: ['MySQL', 'Express', 'React', 'Node'],
     source: 'https://github.com/ScottMaho/AutoReport/tree/masterBranch',
