@@ -13,9 +13,8 @@ const Hero = () => (
        Personal Portfolio
      </SectionTitle>
      <SectionText>
-      I'm a Computer Science major seeking a Software Engineering position. A few of the projects I've worked on and 'some other info' can be found on this website.
+      I'm a Computer Science major seeking a Software Engineering position. A few of the projects I've worked on and the tools I've worked with can be found on this website.
      </SectionText>
-     <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
    </LeftSection>
  </Section>
 );
