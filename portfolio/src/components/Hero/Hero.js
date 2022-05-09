@@ -13,7 +13,7 @@ const Hero = () => (
        Personal Portfolio
      </SectionTitle>
      <SectionText>
-      I'm a Computer Science major seeking a Software Engineering position. A few of the projects I've worked on and the tools I've worked with can be found on this website.
+      I'm a Application Engineering Analyst with a love for all things tech. A few of the projects I've worked on and the tools I've worked with can be found on this website.
      </SectionText>
    </LeftSection>
  </Section>
